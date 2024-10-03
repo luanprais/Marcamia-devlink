@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="" width="100%">
+  <img alt="DevLinks Marcamia" src="./assets/marcamia.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
